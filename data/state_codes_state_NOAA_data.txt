@@ -1,0 +1,98 @@
+stateCode	stateName
+001	Alabama
+030	New York
+002	Arizona
+031	North Carolina
+003	Arkansas
+032	North Dakota
+004	California
+033	Ohio
+005	Colorado
+034	Oklahoma
+006	Connecticut
+035	Oregon
+007	Delaware
+036	Pennsylvania
+008	Florida
+037	Rhode Island
+009	Georgia
+038	South Carolina
+010	Idaho
+039	South Dakota
+011	Illinois
+040	Tennessee
+012	Indiana
+041	Texas
+013	Iowa
+042	Utah
+014	Kansas
+043	Vermont
+015	Kentucky
+044	Virginia
+016	Louisiana
+045	Washington
+017	Maine
+046	West Virginia
+018	Maryland
+047	Wisconsin
+019	Massachusetts
+048	Wyoming
+020	Michigan
+050	Alaska
+021	Minnesota
+101	Northeast Region
+022	Mississippi
+102	East North Central Region
+023	Missouri
+103	Central Region
+024	Montana
+104	Southeast Region
+025	Nebraska
+105	West North Central Region
+026	Nevada
+106	South Region
+027	New Hampshire
+107	Southwest Region
+028	New Jersey
+108	Northwest Region
+029	New Mexico
+109	West Region
+110	National
+111	Great Plains
+115	Southern Plains and Gulf Coast
+120	US Rockies and Westward
+121	NWS Eastern Region
+122	NWS Southern Region
+123	NWS Central Region
+124	NWS Western Region
+201	Pacific Northwest Basin
+202	California River Basin
+203	Great Basin
+204	Lower Colorado River Basin
+205	Upper Colorado River Basin
+206	Rio Grande River Basin
+207	Texas Gulf Coast River Basin
+208	Arkansas-White-Red Basin
+209	Lower Mississippi River Basin
+210	Missouri River Basin
+211	Souris-Red-Rainy Basin
+212	Upper Mississippi River Basin
+213	Great Lakes Basin
+214	Tennessee River Basin
+215	Ohio River Basin
+216	South Atlantic-Gulf Basin
+217	Mid-Atlantic Basin
+218	New England Basin
+220	Mississippi River Basin & Tributaties (N. of Memphis, TN)
+250	Spring Wheat Belt (area weighted)
+255	Primary Hard Red Winter Wheat Belt (area weighted)
+256	Winter Wheat Belt (area weighted)
+260	Primary Corn and Soybean Belt (area weighted)
+261	Corn Belt (area weighted)
+262	Soybean Belt (area weighted)
+265	Cotton Belt (area weighted)
+350	Spring Wheat Belt (productivity weighted)
+356	Winter Wheat Belt (productivity weighted)
+361	Corn Belt (productivity weighted)
+362	Soybean Belt (productivity weighted)
+365	Cotton Belt (productivity weighted)

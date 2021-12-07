@@ -1,0 +1,50 @@
+state_code	state_name
+01	Alabama
+28	New Jersey
+02	Arizona
+29	New Mexico
+03	Arkansas
+30	New York
+04	California
+31	North Carolina
+05	Colorado
+32	North Dakota
+06	Connecticut
+33	Ohio
+07	Delaware
+34	Oklahoma
+08	Florida
+35	Oregon
+09	Georgia
+36	Pennsylvania
+10	Idaho
+37	Rhode Island
+11	Illinois
+38	South Carolina
+12	Indiana
+39	South Dakota
+13	Iowa
+40	Tennessee
+14	Kansas
+41	Texas
+15	Kentucky
+42	Utah
+16	Louisiana
+43	Vermont
+17	Maine
+44	Virginia
+18	Maryland
+45	Washington
+19	Massachusetts
+46	West Virginia
+20	Michigan
+47	Wisconsin
+21	Minnesota
+48	Wyoming
+22	Mississippi
+50	Alaska
+23	Missouri
+24	Montana
+25	Nebraska
+26	Nevada
+27	New Hampshire

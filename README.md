@@ -22,19 +22,5 @@ We used the state-level data for two purposes: to determine when each state hit 
 
 To create rolling 30-year averages for each state to measure which have seen their wettest periods on record in the past few years.
 
-<h1>Analysis of Cities with Combined Sewer Systems</h1>
-
-<h2>Data</h2>
-
-In order to determine how many cities with combined sewer systems are in areas with increasing average annual precipitation and/or in areas where heavy precipiation events are happening with increasing frequency, USA TODAY analyzed data from the Environmental Protection Agency, NOAA, U.S. Census data from IPUMS NHGIS at the University of Minnesota, and weather station data compiled by climatologist Brian Brettschneider. 
-
-<h2>Methodology and Analysis</h2>
-
-For this analysis, we ran a spatial join on the cities with combined sewer systems and NOAA's climate divisions. We had already computed the changes in average annual precipitation by climate division by comparing two 30-year periods 1960-1990 and 1991-2020. 
-
-We found an overwhelming majority of cities with combined systems are in places that saw annual precipitation increase during the past 60 years. 
-
-We used weather station data compiled by Brettschneider to determine which cities with combined systems are in areas that saw an increasing number of heavy precipitation events. Brettchneider compared the two periods 1951-1990 and 1991-2020 to measure the change in frequency of the events. More on Brettschneider's methodology <a href = "http://us-climate.blogspot.com/2021/05/">here.</a>
-
 <h2>Feedback or questions?</h2>
 Contact Kevin Crowe at kcrowe@usatoday.com

@@ -29,7 +29,7 @@ To create rolling 30-year averages for each state to measure which have seen the
 
 As our climate grows warmer, the frequency of intense precipitation events has increased. Our goal with this <a href = "https://github.com/kcrowebasspro/Downpour/blob/main/scripts/Weather_station_analysis.R">analysis</a> was to give readers an idea of what has been happening in <a href = "https://www.usatoday.com/storytelling/news/investigation/rainfall-lookup/">their own backyards</a> in terms of heavy downpours. 
 
-Brian Brettschneider, a climatologist based in Alaska, <a href = "https://github.com/kcrowebasspro/Downpour/blob/main/data/Station_Data_USA_Today.xlsx">built a dataset</a> from daily precipitation readings at weather stations across the U.S. Stations had to meet certain reporting thresholds to be included in the analysis. He compared the two periods 1951-1990 and 1991-2020 to measure the change in frequency of heavy precipitation events. Rread more about Brettschneider's methodology <a href = "http://us-climate.blogspot.com/2021/05/">here.</a>
+Brian Brettschneider, a climatologist based in Alaska, <a href = "https://github.com/kcrowebasspro/Downpour/blob/main/data/Station_Data_USA_Today.xlsx">built a dataset</a> from daily precipitation readings at weather stations across the U.S. Stations had to meet certain reporting thresholds to be included in the analysis. He compared the two periods 1951-1990 and 1991-2020 to measure the change in frequency of heavy precipitation events. Read more about Brettschneider's methodology <a href = "http://us-climate.blogspot.com/2021/05/">here.</a>
 
 <h1>Analysis of Cities with Combined Sewer Systems</h1>
 

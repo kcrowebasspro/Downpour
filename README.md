@@ -4,7 +4,7 @@ This repository contains the data, analytic code and the findings used in the US
 
 <h2>Data</h2>
 
-The two main datasets used for the visual story and main article of this project came from NOAA's National Centers for Environmental Information. They consist of monthly precipitation totals from 1895 to 2020 for NOAA's 344 <a href = "https://github.com/kcrowebasspro/Downpour/blob/main/data/climdiv-pcpndv-v1.0.0-20211006.txt">climate divisions</a> as well as <a href = "https://github.com/kcrowebasspro/Downpour/blob/main/data/climdiv-pcpnst-v1.0_080521.txt">states</a> in the continental U.S.
+The two main datasets used for the <a href = "https://www.usatoday.com/in-depth/graphics/2021/11/30/climate-change-impact-on-rainfall-in-your-state-explained/6249484001/">visual story</a> and <a href = "https://www.usatoday.com/in-depth/news/investigations/2021/11/30/climate-change-extreme-rainfall/8550366002/">main article</a> of this project came from NOAA's National Centers for Environmental Information. They consist of monthly precipitation totals from 1895 to 2020 for NOAA's 344 <a href = "https://github.com/kcrowebasspro/Downpour/blob/main/data/climdiv-pcpndv-v1.0.0-20211006.txt">climate divisions</a> as well as <a href = "https://github.com/kcrowebasspro/Downpour/blob/main/data/climdiv-pcpnst-v1.0_080521.txt">states</a> in the continental U.S.
 
 Link: https://www.ncei.noaa.gov/pub/data/cirs/climdiv/
 	<br>- Climate divisions file convention: climdiv-pcpndv-v1.0.0-YYYYMMDD
@@ -27,7 +27,7 @@ To create rolling 30-year averages for each state to measure which have seen the
 
 <h2>Data</h2>
 
-As our climate grows warmer, the frequency of intense precipitation events has increased. Our goal with this <a href = "https://github.com/kcrowebasspro/Downpour/blob/main/scripts/Weather_station_analysis.R">analysis</a> was to give readers an idea of what has been happening in their own backyards in terms of heavy storms. 
+As our climate grows warmer, the frequency of intense precipitation events has increased. Our goal with this <a href = "https://github.com/kcrowebasspro/Downpour/blob/main/scripts/Weather_station_analysis.R">analysis</a> was to give readers an idea of what has been happening in <a href = "https://www.usatoday.com/storytelling/news/investigation/rainfall-lookup/">their own backyards</a> in terms of heavy storms. 
 
 Brian Brettschneider, a climatologist based in Alaska, <a href = "https://github.com/kcrowebasspro/Downpour/blob/main/data/Station_Data_USA_Today.xlsx">built a dataset</a> from daily precipitation readings at weather stations across the U.S. Station had to meet certain reporting thresholds to be included in the analysis. He compared the two periods 1951-1990 and 1991-2020 to measure the change in frequency of heavy precipitation events. More on Brettschneider's methodology <a href = "http://us-climate.blogspot.com/2021/05/">here.</a>
 
@@ -35,7 +35,7 @@ Brian Brettschneider, a climatologist based in Alaska, <a href = "https://github
 
 <h2>Data</h2>
 
-In order to determine how many cities with combined sewer systems are in areas with increasing average annual precipitation and/or in areas where heavy precipiation events are happening with increasing frequency, USA TODAY analyzed data from the Environmental Protection Agency, NOAA, U.S. Census data from IPUMS NHGIS at the University of Minnesota, and the weather station data compiled by climatologist Brian Brettschneider. 
+In order to determine how many <a href = "https://www.usatoday.com/in-depth/news/investigations/2021/11/30/sewer-systems-climate-change/6201425001/">cities with combined sewer systems</a> are in areas with increasing average annual precipitation and/or in areas where heavy precipiation events are happening with increasing frequency, USA TODAY analyzed data from the Environmental Protection Agency, NOAA, U.S. Census data from IPUMS NHGIS at the University of Minnesota, and the weather station data compiled by climatologist Brian Brettschneider. 
 
 <h2>Methodology and Analysis</h2>
 
